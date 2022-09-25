@@ -1,1 +1,2 @@
-# SneakerDisplayPage
+- A webpage displaying Adidas sneaker
+- Add some animation by JavaScript
