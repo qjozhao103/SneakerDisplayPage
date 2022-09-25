@@ -1,2 +1,2 @@
-- A webpage displaying Adidas sneaker
+- A webpage displaying Adidas sneaker: https://qjozhao103.github.io/SneakerDisplayPage/
 - Add some animation by JavaScript
